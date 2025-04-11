@@ -2,8 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/projectname?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/projectname?style=social)
+![GitHub stars](https://img.shields.io/github/stars/AkilaSandeepa/projectname?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AkilaSandeepa/projectname?style=social)
 
 > A concise, powerful description of your project that captures attention and explains what it does in one or two sentences.
 
@@ -98,11 +98,11 @@ app.init()
 
 ## 📊 Performance
 
-| Operation | Time (ms) | Memory Usage |
-|-----------|-----------|-------------|
-| Initialize | 42 | 13MB |
-| Process    | 128 | 45MB |
-| Export     | 67 | 22MB |
+| Operation  | Time (ms) | Memory Usage |
+|------------|-----------|--------------|
+| Initialize | 42        | 13MB         |
+| Process    | 128       | 45MB         |
+| Export     | 67        | 22MB         |
 
 ## 🛠️ Tech Stack
 
@@ -137,9 +137,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Your Name - [@twitterhandle](https://twitter.com/twitterhandle) - email@example.com
+Akila Sandeepa - [@AkilaSandeepa](https://github.com/AkilaSandeepa) - akilasandeepa@example.com
 
-Project Link: [https://github.com/yourusername/projectname](https://github.com/yourusername/projectname)
+Project Link: [https://github.com/AkilaSandeepa/projectname](https://github.com/AkilaSandeepa/projectname)
 
 ## 🙏 Acknowledgements
 
@@ -150,5 +150,5 @@ Project Link: [https://github.com/yourusername/projectname](https://github.com/y
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/yourusername">Your Name</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/AkilaSandeepa">Akila Sandeepa</a></sub>
 </div>

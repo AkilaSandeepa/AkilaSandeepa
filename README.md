@@ -105,12 +105,12 @@
 <div align="center">
 <br>
  
-  ![](https://nirzak-streak-stats.vercel.app/?user=LochanaLithira&theme=chartreuse-dark&hide_border=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=AkilaSandeepa&theme=chartreuse-dark&hide_border=false)<br/>
 
 <br>
 <br>
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=LochanaLithira\&theme=chartreuse-dark\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkilaSandeepa\&theme=chartreuse-dark\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 <br>
 <br>

@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Java, Python, PHP and NodeJS**
 
-- 📫 How to reach me **lithira505@gmail.com**
+- 📫 How to reach me **sandeepaa425@gmail.com**
 
 - 📄 Know about my experiences <!--[my experiences](http://supun.traditionalme.life/#resume) -->
 

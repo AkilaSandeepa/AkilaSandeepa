@@ -29,7 +29,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lochana-lithira-202528343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Akila-Sandeepa-202528343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 <!--<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>-->
 <a href="https://www.facebook.com/profile.php?id=100010551151142&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lochana_lithira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
@@ -89,11 +89,11 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <!-- <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LochanaLithira&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+<img src="https://github-profile-trophy.vercel.app/?username=AkilaSandeepa&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LochanaLithira&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=AkilaSandeepa&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br> -->
 <br/>
@@ -114,7 +114,7 @@
 
 <br>
 <br>
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=LochanaLithira&show_icons=true&hide_border=true&theme=chartreuse-dark" width="37%" alt="Sumanth's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=AkilaSandeepa&show_icons=true&hide_border=true&theme=chartreuse-dark" width="37%" alt="Sumanth's Top Languages">
 
 </div>
 <br/>
@@ -125,7 +125,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=LochanaLithira&custom_title=Lochana's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkilaSandeepa&custom_title=Akila's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br>
 <br>
 <p  align="center">

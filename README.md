@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Akila Sandeepa</h1>
 <h3 align="center">A passionate Programmer from Sri lanka</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuff 🛠️</p>
 
 <h3 align="center"><b>Visitor's Count</b></h3>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BLochanaLithira%7D/count.svg" alt="visitor badge"/></p>
@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at <!--[supun's workspace](http://supun.traditionalme.life) -->
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 💬 Ask me about **Java, Python, PHP, and NodeJS**
 
 - 📫 How to reach me **sandeepaa425@gmail.com**
 

@@ -1,148 +1,109 @@
 <p align="center">
- <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+Profile&speed=40">
-</a>
+  <a href="https://github.com/AkilaSandeepa">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!&speed=40" alt="Typing SVG" />
+  </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Akila Sandeepa</h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuff 🛠️</p>
+<h3 align="center">A passionate professional from Sri Lanka specializing in DevOps & Cybersecurity</h3>
 
-<h3 align="center"><b>Visitor's Count</b></h3>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BLochanaLithira%7D/count.svg" alt="visitor badge"/></p>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
-
-- 🔭 I’m currently working on **-**
-
-- 🌱 I’m currently learning **-**
-
-- 👨‍💻 All of my projects are available at <!--[supun's workspace](http://supun.traditionalme.life) -->
-
-- 💬 Ask me about **Java, Python, PHP, and NodeJS**
-
-- 📫 How to reach me **sandeepaa425@gmail.com**
-
-- 📄 Know about my experiences <!--[my experiences](http://supun.traditionalme.life/#resume) -->
-
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/Akila-Sandeepa-202528343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-<!--<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>-->
-<a href="https://www.facebook.com/profile.php?id=100010551151142&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lochana_lithira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-<!--<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>-->
-</p>
-<br>
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,nodejs,py,express" />
-  </a>
-</p>
-
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,postman,linux" />
-  </a>
-</p>
-
-<br/>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<h3 align="left">Trophy:</h3>
-<img src="https://camo.githubusercontent.com/b580ca9dad2960a88e73985216d6f51fa698c903997f082898c45200a7c083dd/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d53616e6368697468615564616e61267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d74727565266d617267696e2d773d34" width="1000px" height="1000px"> </p>
 <p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  Technology fascinates me 🌐, and I enjoy building innovative projects leveraging cutting-edge tech stacks 💻🛠️.
+</p>
+
+<h3 align="center"><strong>Visitor Count</strong></h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AkilaSandeepa/count.svg" alt="Visitor Count" />
+</p>
+
+---
+
+### 🔒 Cybersecurity & 🛠️ DevOps Focus  
+
+<p align="center">
+  <a href="https://tryhackme.com/p/AKILA" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/TryHackMe-AKILA-1abc9c?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akila-sandeepa/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-Akila%20Sandeepa-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.sliit.lk/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/SLIIT-Student-red?style=for-the-badge&logo=education&logoColor=white" alt="SLIIT Student" />
+  </a>
+</p>
+
+---
+
+<img align="right" alt="Cybersecurity & DevOps" width="350" src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=600&q=80" style="border-radius: 12px; box-shadow: 0 0 10px #00ff00cc;" />
+
+- 🔭 I’m currently working on **DevOps automation & Cybersecurity projects**  
+- 🌱 I’m actively learning **cloud security, infrastructure as code (IaC), penetration testing, and secure software development**  
+- 👨‍💻 Skilled in **Java, Python, PHP, NodeJS, Linux, Docker, Kubernetes, Terraform, Ansible, and security tools like Nmap, Burp Suite, Wireshark**  
+- 🎓 Currently pursuing **B.Sc. (Hons) in Information Technology** at **SLIIT** with a specialization in Cybersecurity  
+- 📫 Reach me at: **[sandeepaa425@gmail.com](mailto:sandeepaa425@gmail.com)**  
+
+---
+
+### Connect with Me
+
+
+
+<p align="left">
+  <a href="https://linkedin.com/in/akila-sandeepa" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
+  </a>
+  <a href="https://tryhackme.com/p/AKILA" target="_blank" rel="noopener">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tryhackme.svg" alt="TryHackMe" width="40" height="40" />
+  </a>
+  <a href="https://www.facebook.com/share/16q9JNhvcp/?mibextid=wwXIfr" target="_blank" rel="noopener">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40" style="border-radius:8px" />
+  </a>
+  <a href="https://www.instagram.com/_akila_madugaswaththa?igsh=b3UybnVtcnhuNXdm&utm_source=qr" target="_blank" rel="noopener">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" style="border-radius:8px" />
+  </a>
+</p>
+
+
+---
+
+### Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,nodejs,linux,docker,kubernetes,aws,terraform,ansible,git,github,jenkins,nmap,burpsuite,wireshark" alt="Languages & Tools" />
+</p>
+
+---
+
+### GitHub Stats
+
+<div align="center">
   
-<!-- <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AkilaSandeepa&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
+  ![](https://nirzak-streak-stats.vercel.app/?user=AkilaSandeepa&theme=chartreuse-dark&hide_border=false)<br/><br/>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AkilaSandeepa&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br> -->
-<br/>
- <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  ![](https://github-readme-stats.vercel.app/api?username=AkilaSandeepa&theme=chartreuse-dark&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)<br/><br/>
 
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-<br>
- 
-  ![](https://nirzak-streak-stats.vercel.app/?user=AkilaSandeepa&theme=chartreuse-dark&hide_border=false)<br/>
-
-<br>
-<br>
- 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkilaSandeepa\&theme=chartreuse-dark\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-<br>
-<br>
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=AkilaSandeepa&show_icons=true&hide_border=true&theme=chartreuse-dark" width="37%" alt="Sumanth's Top Languages">
-
+  ![](https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=AkilaSandeepa&show_icons=true&hide_border=true&theme=chartreuse-dark&layout=compact)
+  
 </div>
-<br/>
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+---
 
+### GitHub Activity
 
-<h3 align="left">Activity:</h3>
+![Akila's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkilaSandeepa&custom_title=Akila's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkilaSandeepa&custom_title=Akila's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br>
-<br>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+---
 
-<br>
+### Achievements
 
-<h3 align="left">Achievements:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkilaSandeepa&theme=matrix&no-bg=true&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
+</p>
 
-<!--[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
-<br><br><br>
+---
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
-
--->
+<p align="center">
+  <em>Thanks for visiting my profile! Feel free to connect or ask about anything tech-related 🚀</em>
+</p>

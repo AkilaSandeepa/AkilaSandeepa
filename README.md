@@ -38,7 +38,7 @@
 
 ---
 
-<img align="right" alt="Cybersecurity & DevOps" width="350" src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=600&q=80" style="border-radius: 12px; box-shadow: 0 0 10px #00ff00cc;" />
+<img align="right" alt="Cybersecurity & DevOps" width="350" height="320" src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=600&q=80" style="border-radius: 12px; box-shadow: 0 0 10px #00ff00cc;" />
 
 - 🔭 I’m currently working on **DevOps automation & Cybersecurity projects**  
 - 🌱 I’m actively learning **cloud security, infrastructure as code (IaC), penetration testing, and secure software development**  

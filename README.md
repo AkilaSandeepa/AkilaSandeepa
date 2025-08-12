@@ -38,7 +38,7 @@
 
 ---
 
-<img align="right" alt="Cybersecurity & DevOps" width="320" height="320" src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=600&q=80" style="border-radius: 12px; box-shadow: 0 0 10px #00ff00cc;" />
+<img align="right" alt="Cybersecurity & DevOps" width="300" height="320" src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=600&q=80" style="border-radius: 12px; box-shadow: 0 0 10px #00ff00cc;" />
 
 - 🔭 I’m currently working on **DevOps automation & Cybersecurity projects**  
 - 🌱 I’m actively learning **cloud security, infrastructure as code (IaC), penetration testing, and secure software development**  
@@ -57,6 +57,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />
   </a>
   <a href="https://tryhackme.com/p/AKILA" target="_blank" rel="noopener">
+     <img file:///Users/akilasandeepa/Downloads/Tryhackme--Streamline-Simple-Icons.svg />
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tryhackme.svg" alt="TryHackMe" width="40" height="40" />
   </a>
   <a href="https://www.facebook.com/share/16q9JNhvcp/?mibextid=wwXIfr" target="_blank" rel="noopener">
